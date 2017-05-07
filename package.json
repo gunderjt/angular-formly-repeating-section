@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/markacola/angular-formly-repeating-section#readme",
   "peerDependencies": {
-    "angular": "^1.2.x || >= 1.4.0-beta.0 || >= 1.5.0-beta.0",
+    "angular": "^1.2.x || >= 1.4.0-beta.0 || >= 1.5.0-beta.0 || ^1.6.x",
     "angular-formly": ">=6.20.0"
   },
   "devDependencies": {
